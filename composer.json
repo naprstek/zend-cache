@@ -1,12 +1,12 @@
 {
-    "name": "zendframework/zend-cache",
+    "name": "naprstek/zend-cache",
     "description": "provides a generic way to cache any data",
     "license": "BSD-3-Clause",
     "keywords": [
         "zf2",
         "cache"
     ],
-    "homepage": "https://github.com/zendframework/zend-cache",
+    "homepage": "https://github.com/naprstek/zend-cache",
     "autoload": {
         "psr-4": {
             "Zend\\Cache\\": "src/"
